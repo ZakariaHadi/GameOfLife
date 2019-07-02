@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1523738296 source:c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\jeu de la vie\main.c
+	"macro_lifegame.h"
+	"Macro.h"
+	"fcts_regles_position.h"
+
+1523739217 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\jeu de la vie\macro_lifegame.h
+	"structure_lifegame.h"
+
+1523732554 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\jeu de la vie\structure_lifegame.h
+	<cairo.h>
+	"struct_macro.h"
+
+1523671799 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\jeu de la vie\macro.h
+	"struct_macro.h"
+	"macro_lifegame.h"
+	<windows.h>
+
+1523731270 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\jeu de la vie\struct_macro.h
+	<gtk/gtk.h>
+	<math.h>
+
+1523740024 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\jeu de la vie\fcts_regles_position.h
+	"structure_lifegame.h"
+	"struct_macro.h"
+	"macro_lifegame.h"
+	"Macro.h"
+
+1523738296 source:c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\gtk final\jeu de la vie ver finale\main.c
+	"macro_lifegame.h"
+	"Macro.h"
+	"fcts_regles_position.h"
+
+1525218398 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\gtk final\jeu de la vie ver finale\macro_lifegame.h
+	"structure_lifegame.h"
+
+1523732554 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\gtk final\jeu de la vie ver finale\structure_lifegame.h
+	<cairo.h>
+	"struct_macro.h"
+
+1523731270 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\gtk final\jeu de la vie ver finale\struct_macro.h
+	<gtk/gtk.h>
+	<math.h>
+
+1523671799 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\gtk final\jeu de la vie ver finale\macro.h
+	"struct_macro.h"
+	"macro_lifegame.h"
+	<windows.h>
+
+1523740024 c:\users\zikos\desktop\nouveau dossier\test 1 codeblocks gtk\gtk final\jeu de la vie ver finale\fcts_regles_position.h
+	"structure_lifegame.h"
+	"struct_macro.h"
+	"macro_lifegame.h"
+	"Macro.h"
+
+1526392383 source:c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\main.c
+	"macro_lifegame.h"
+	"Macro.h"
+	"fcts_regles_position.h"
+	"initialisation_fenetre.h"
+
+1526344765 c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\macro_lifegame.h
+	"structure_lifegame.h"
+
+1526342241 c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\structure_lifegame.h
+	<cairo.h>
+	"struct_macro.h"
+
+1525652791 c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\struct_macro.h
+	<gtk/gtk.h>
+	<math.h>
+
+1525808190 c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\macro.h
+	"struct_macro.h"
+	"macro_lifegame.h"
+	<windows.h>
+
+1525808140 c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\fcts_regles_position.h
+	"structure_lifegame.h"
+	"struct_macro.h"
+	"macro_lifegame.h"
+	"Macro.h"
+
+1526343953 c:\users\zikos\desktop\nouveau_dossier\test1_codeblocks_gtk\gtk_final\jeu_de_la_vie_ver_finale\initialisation_fenetre.h
+	"structure_lifegame.h"
+	"struct_macro.h"
+	"macro_lifegame.h"
+	"Macro.h"
+	"fcts_regles_position.h"
+
+1526395983 source:c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\main.c
+	"macro_lifegame.h"
+	"Macro.h"
+	"fcts_regles_position.h"
+	"initialisation_fenetre.h"
+
+1559240310 c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\macro_lifegame.h
+	"structure_lifegame.h"
+
+1526345841 c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\structure_lifegame.h
+	<cairo.h>
+	"struct_macro.h"
+
+1525656391 c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\struct_macro.h
+	<gtk/gtk.h>
+	<math.h>
+
+1559130130 c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\macro.h
+	"struct_macro.h"
+	"macro_lifegame.h"
+	<windows.h>
+
+1525811740 c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\fcts_regles_position.h
+	"structure_lifegame.h"
+	"struct_macro.h"
+	"macro_lifegame.h"
+	"Macro.h"
+
+1559129632 c:\users\zikos\documents\gtk final\gtk_final\jeu_de_la_vie_ver_finale\initialisation_fenetre.h
+	"structure_lifegame.h"
+	"struct_macro.h"
+	"macro_lifegame.h"
+	"Macro.h"
+	"fcts_regles_position.h"
+
